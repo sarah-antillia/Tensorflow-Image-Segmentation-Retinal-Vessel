@@ -9,9 +9,9 @@ Retinal-Vessel-ImageMask-Dataset.zip</a>, which was derived by us from
 
 <br>
 <br>
-On our dataset, please refer to the first experiment <a href="https://github.com/atlan-antillia/Image-Segmentation-Retinal-Vessel.git"></a>
+On our dataset, please refer to the first experiment <a href="https://github.com/atlan-antillia/Image-Segmentation-Retinal-Vessel.git">
 Image-Segmentation-Retinal-Vessel</a>
-<br>
+
 <br>
 <hr>
 <b>Actual Image Segmentation for Images of 512x512 pixels</b><br>
