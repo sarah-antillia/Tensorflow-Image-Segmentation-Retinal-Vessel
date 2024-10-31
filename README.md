@@ -12,14 +12,6 @@ Retinal-Vessel-ImageMask-Dataset.zip</a>, which was derived by us from
 On our dataset, please refer to the first experiment <a href="https://github.com/atlan-antillia/Image-Segmentation-Retinal-Vessel.git"></a>
 Image-Segmentation-Retinal-Vessel</a>
 <br>
-<!--
-<br>
-<b>Experiment Strategy</b><br>
-
-<b> Data Augmentation:</b><br>
- To address the limited size of the ImageMask-Dataset-Retinal-Vessel dataset, 
- we employed <a href="./src/ImageMaskAugmentor.py">an online augmentation tool</a> to enhance segmentation accuracy.<br>
- -->
 <br>
 <hr>
 <b>Actual Image Segmentation for Images of 512x512 pixels</b><br>
