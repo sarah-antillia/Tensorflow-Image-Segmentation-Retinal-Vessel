@@ -311,36 +311,15 @@ python ../../../src/TensorflowUNetInferencer.py ./train_eval_infer_aug.config
 <h3>
 References
 </h3>
-<b>1. CNSeg: : A dataset for cervical nuclear segmentation</b><br>
-
-<a href="https://dl.acm.org/doi/abs/10.1016/j.cmpb.2023.107732">
-https://dl.acm.org/doi/abs/10.1016/j.cmpb.2023.107732
+<b>1. State-of-the-art retinal vessel segmentation with minimalistic models</b><br>
+Adrian Galdran, André Anjos, José Dolz, Hadi Chakor, Hervé Lombaert & Ismail Ben Ayed <br>
+<a href="https://www.nature.com/articles/s41598-022-09675-y">
+https://www.nature.com/articles/s41598-022-09675-y
 </a>
 <br>
-@article{ZHAO2023107732, title = {CNSeg: A dataset for cervical nuclear segmentation}, <br>
-journal = {Computer Methods and Programs in Biomedicine}, volume = {241}, pages = {107732}, year = {2023}, issn = {0169-2607}, <br>
-doi = {https://doi.org/10.1016/j.cmpb.2023.107732}, <br>
-url = {https://www.sciencedirect.com/science/article/pii/S016926072300398X}, 
-author = {Jing Zhao and Yong-jun He and Shu-Hang Zhou and Jian Qin and Yi-ning Xie} }
+<b>2, Image-Segmentation-Retinal-Vessel</b><br>
+Toshiyuki Arai @antillia.com<br>
+<a href="https://github.com/atlan-antillia/Image-Segmentation-Retinal-Vessel">
+https://github.com/atlan-antillia/Image-Segmentation-Retinal-Vessel</a>
 <br>
-<br>
-<b>2. ImageMask-Dataset-Retinal-Vessel</b><br>
-Toshiyuki Arai @antillia.com<br>
-<a href="https://github.com/sarah-antillia/ImageMask-Dataset-Retinal-Vessel">
-https://github.com/sarah-antillia/ImageMask-Dataset-Retinal-Vessel</a>
-
-<br><br>
-<b>3. Tensorflow-Tiled-Image-Segmentation-Augmented-Cervical-Cancer </b><br>
-Toshiyuki Arai @antillia.com<br>
-<a href="https://github.com/sarah-antillia/Tensorflow-Tiled-Image-Segmentation-Augmented-Cervical-Cancer">
-https://github.com/sarah-antillia/Tensorflow-Tiled-Image-Segmentation-Augmented-Cervical-Cancer
-</a>
-
-<br><br>
-<b>4. Tensorflow-Image-Segmentation-Augmented-White-Blood-Cell</b><br>
-Toshiyuki Arai @antillia.com<br>
-<a href="https://github.com/sarah-antillia/Tensorflow-Image-Segmentation-Augmented-White-Blood-Cell">
-https://github.com/sarah-antillia/Tensorflow-Image-Segmentation-Augmented-White-Blood-Cell
-</a>.
-
 
