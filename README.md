@@ -8,7 +8,7 @@ Retinal-Vessel-ImageMask-Dataset.zip</a>, which was derived by us from
 <a href="https://researchdata.kingston.ac.uk/96/"><b>CHASE_DB1</b> retinal vessel reference dataset</a>
 
 <br>
-<br>
+
 On our dataset, please refer to the first experiment <a href="https://github.com/atlan-antillia/Image-Segmentation-Retinal-Vessel.git">
 Image-Segmentation-Retinal-Vessel</a>
 
