@@ -317,6 +317,7 @@ Adrian Galdran, André Anjos, José Dolz, Hadi Chakor, Hervé Lombaert & Ismail 
 https://www.nature.com/articles/s41598-022-09675-y
 </a>
 <br>
+<br>
 <b>2, Image-Segmentation-Retinal-Vessel</b><br>
 Toshiyuki Arai @antillia.com<br>
 <a href="https://github.com/atlan-antillia/Image-Segmentation-Retinal-Vessel">
