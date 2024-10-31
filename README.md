@@ -242,7 +242,6 @@ The loss (bce_dice_loss) to this Retinal-Vessel/test was not so low, and dice_co
 loss,0.2613
 dice_coef,0.6907
 </pre>
-<br>TensorFlow Image Segmentation for Liver-Tumor based on Tensorflow-Image-Segmentation-APITensorFlow Image Segmentation for Liver-Tumor based on Tensorflow-Image-Segmentation-API
 
 
 <h3>
